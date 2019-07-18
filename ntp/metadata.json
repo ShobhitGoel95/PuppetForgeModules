@@ -1,0 +1,41 @@
+{
+  "name": "shobhitgoel-ntp",
+  "version": "0.2.0",
+  "author": "shobhitgoel",
+  "summary": "For installing and configuring NTP on different OS.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/ShobhitGoel95/PuppetForgeModules/",
+  "project_page": "https://github.com/ShobhitGoel95/PuppetForgeModules/",
+  "issues_url": "https://github.com/ShobhitGoel95/PuppetForgeModules/issues",
+  "dependencies": [
+  
+  ],
+  "data_provider": null,
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "OracleLinux",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    }
+  ]
+}

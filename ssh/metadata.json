@@ -1,0 +1,12 @@
+{
+  "name": "shobhitgoel-ssh",
+  "version": "0.3.0",
+  "author": "Shobhitgoel",
+  "summary": "Installing ssh on CENTos(tested on it) or any Redhat and Debian systems",
+  "license": "Apache-2.0",
+  "source": "SSh mdule for beginners",
+  "project_page":null,
+  "issues_url": null,
+  "data_provider": null
+}
+
